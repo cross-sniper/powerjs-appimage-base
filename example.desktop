@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Hello World
+Exec=powerjs
+Icon=uzi
+Categories=Utility;
